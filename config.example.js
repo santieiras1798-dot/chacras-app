@@ -1,0 +1,2 @@
+// Copiar como config.js al publicar. Usar solamente la URL del proyecto y la clave publishable/anon pública de Supabase.
+window.CHACRAS_CONFIG={SUPABASE_URL:'https://TU-PROYECTO.supabase.co',SUPABASE_ANON_KEY:'TU_CLAVE_PUBLICA'};
