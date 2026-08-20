@@ -1,0 +1,1 @@
+window.CHACRAS_CONFIG={SUPABASE_URL:'https://opclpcopuvnurcbrhioo.supabase.co',SUPABASE_ANON_KEY:'sb_publishable_R38NtZnhAurRKXW6ranryw_DzkAOivk'};
